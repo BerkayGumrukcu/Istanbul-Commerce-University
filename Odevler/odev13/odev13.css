@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Exo+2:wght@200;300;400;500;600;700;800&family=Exo:wght@200;300;400;500;600;700;800&family=Mr+Dafoe&family=Open+Sans:wght@300;400;500;600;700;800&family=Poppins:wght@300;400;600;700&family=Roboto+Condensed:wght@300;400;700&family=Rubik+Wet+Paint&family=Satisfy&family=Shadows+Into+Light&display=swap');
+
+h1{
+    font-family: 'Mr Dafoe';
+}
+h2{
+    font-family: 'Shadows Into Light';
+}
+h3{
+    font-family: 'Rubik Wet Paint';
+}
+h4{
+    font-family: 'Satisfy';
+}

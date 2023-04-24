@@ -1,0 +1,41 @@
+.takvim table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.takvim th,
+.takvim td {
+  padding: 10px;
+  text-align: center;
+  border: 1px solid #fff;
+}
+
+.takvim .aa {
+    background-color: green;
+    height: 200px;
+    font-size: 40px;
+}
+
+.takvim thead th {
+  font-weight: bold;
+  font-size: 20px;
+  background-color: rgb(167, 165, 165);
+}
+
+.takvim tbody td {
+  font-size: 18px;
+  background-color: rgb(212, 211, 211);
+}
+
+.takvim tbody td:hover {
+  background-color: #030303;
+  color: #fff;
+}
+
+.takvim tbody td:not(:empty) {
+  cursor: pointer;
+}
+
+.takvim tbody td.today {
+  background-color: #e7e7e7;
+}
